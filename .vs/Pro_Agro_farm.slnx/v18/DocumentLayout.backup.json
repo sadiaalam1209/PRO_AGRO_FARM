@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|c:\\users\\rifatuzzaman provat\\desktop\\c# corner\\pro_agro_farm\\forms\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:forms\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|c:\\users\\rifatuzzaman provat\\desktop\\c# corner\\pro_agro_farm\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|c:\\users\\rifatuzzaman provat\\desktop\\c# corner\\pro_agro_farm\\forms\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:forms\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|c:\\users\\rifatuzzaman provat\\desktop\\c# corner\\pro_agro_farm\\forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:forms\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|c:\\users\\rifatuzzaman provat\\desktop\\c# corner\\pro_agro_farm\\forms\\frmmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:forms\\frmmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABAFB88-25AA-4B64-A961-2BEEFBF67339}|Pro_Agro_farm.csproj|solutionrelative:sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMilk.cs",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmMilk.cs",
+              "RelativeDocumentMoniker": "Forms\\frmMilk.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmMilk.cs",
+              "RelativeToolTip": "Forms\\frmMilk.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T02:55:25.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmProduct.cs",
+              "RelativeDocumentMoniker": "Forms\\frmProduct.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmProduct.cs [Design]*",
+              "RelativeToolTip": "Forms\\frmProduct.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:42:24.302Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Forms\\frmOrder.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmOrder.cs*",
+              "RelativeToolTip": "Forms\\frmOrder.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:21:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmOrder.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmOrder.Designer.cs*",
+              "RelativeToolTip": "Forms\\frmOrder.Designer.cs*",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:15:43.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmOrder.cs",
+              "RelativeDocumentMoniker": "Forms\\frmOrder.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmOrder.cs [Design]*",
+              "RelativeToolTip": "Forms\\frmOrder.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:14:12.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\SessionCart.cs",
+              "RelativeDocumentMoniker": "SessionCart.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\SessionCart.cs",
+              "RelativeToolTip": "SessionCart.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:07:37.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Rifatuzzaman provat\\Desktop\\C# corner\\Pro_Agro_farm\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "Forms\\frmLogin.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:08:06.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
